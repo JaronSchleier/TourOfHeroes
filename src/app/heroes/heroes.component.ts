@@ -16,7 +16,7 @@ export class HeroesComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    console.log('test')
+    console.log('firstBranch')
   }
 
 }
